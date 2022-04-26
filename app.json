@@ -1,6 +1,6 @@
 {
-    "name": "TrickyAbhi-Bot",
-    "description": "Telegram group management bot.",
+    "name": "LaLisa-Bot",
+    "description": "Hail Lalisa.",
     "keywords": [
        "telegram",
        "anime",
@@ -8,7 +8,7 @@
        "manager",
        "yone"
     ],   
- "repository": "https://github.com/SJMxADITI/TrickyAbhi-Bot",
+ "repository": "https://github.com/vkhacks007/lalisa",
  "addons": [
     {
        "options": {
